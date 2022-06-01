@@ -2,4 +2,5 @@
     <string name="app_name">My Dice Roller</string>
     <string name="roll_label">Roll</string>
     <string name="restablecer">restablecer</string>
+    <string name="imagen_de_la_tirada_de_un_dado">imagen de la tirada de un dado</string>
 </resources>
